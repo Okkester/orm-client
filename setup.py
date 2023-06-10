@@ -7,13 +7,13 @@ REQUIRES = [
 ]
 
 setup(
-    name='orm-client',
+    name='orm_client',
     version='0.0.1',
-    packages=['orm-client'],
-    url='https://github.com/Okkester/orm-client.git',
+    packages=['orm_client'],
+    url='https://github.com/Okkester/orm_client.git',
     license='MIT',
     author='d.anofriev',
     author_email='-',
     install_requires=REQUIRES,
-    description='orm-client with allure and logger'
+    description='orm client with allure and logger'
 )
